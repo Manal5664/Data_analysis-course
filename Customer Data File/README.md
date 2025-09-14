@@ -19,12 +19,3 @@ The file includes customer-related records. The main task performed was combinin
 
 ## File Description
 - **dirty_customer_data_100k.xlsx** → The Excel file containing raw data and the final appended dataset.
-
----
-
-## Notes
-- All work was done **inside Excel using Power Query**.  
-- No Python, Pandas, or Jupyter Notebook was used.  
-- The file only demonstrates how male and female records were appended into one dataset.  
-
----
