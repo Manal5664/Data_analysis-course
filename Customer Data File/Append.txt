@@ -1,0 +1,5 @@
+Customer_ID,Full_Name,Email,City,Country,Date_of_Birth,Signup_Date,Total_Purchase,Customer_Status
+C006,Clara Johns,clara.johns@example.com,San Francisco,USA,1988/07/15,2023-01-01,450,active
+C007,David Clark,david.clark@web.net,SanFrancisco,United States,07-15-1988,2023-01-01,650,inactive
+C002,Jane Doe,jane.doe@newmail.com,NewYork,USA,1992-01-10,2024-02-15,999,active
+C008,Erica Banks,erica_banks@domain,los angeles,US,1991/12/10,,100,actve

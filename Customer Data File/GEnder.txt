@@ -1,0 +1,3 @@
+Customer_Status Gender
+Inactive Male
+Active Female
