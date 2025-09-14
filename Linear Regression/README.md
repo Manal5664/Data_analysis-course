@@ -1,7 +1,7 @@
 # Linear Regression Model
 
 ## Overview
-This Excel workbook **Linear Regression Model.xlsx** shows a basic linear regression example done entirely in Excel using built-in functions (no charts in this file).
+This Excel workbook **Linear Regression Model.xlsx** shows a basic linear regression example done entirely in Excel using built-in functions.
 
 ## Data
 - Columns: `A1` = **Hour(X)**, `B1` = **Score(Y)**.  
@@ -15,6 +15,7 @@ This Excel workbook **Linear Regression Model.xlsx** shows a basic linear regres
 
 ## Summary Statistics (Sheet5)
 - Contains descriptive stats for X and Y (mean, standard error, median, standard deviation, variance, skewness, kurtosis, range).
+
 
 
 
